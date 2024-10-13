@@ -1,4 +1,4 @@
-# DevSecOps Practice
+# Trishul DevSecOps
 
 This repository showcases the integration of security into the DevOps lifecycle, making security a shared responsibility throughout the CI/CD process.
 
