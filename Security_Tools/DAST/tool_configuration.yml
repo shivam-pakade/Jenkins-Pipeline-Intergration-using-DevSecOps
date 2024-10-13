@@ -1,0 +1,5 @@
+tool:
+  name: 'DAST Tool'
+  version: '1.0'
+  config:
+    target_url: 'http://localhost:8080'

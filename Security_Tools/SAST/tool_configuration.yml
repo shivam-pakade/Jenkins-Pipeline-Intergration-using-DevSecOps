@@ -1,0 +1,7 @@
+tool:
+  name: 'SAST Tool'
+  version: '1.0'
+  config:
+    rules:
+      - rule1: 'Check for SQL Injection'
+      - rule2: 'Check for Cross-Site Scripting'

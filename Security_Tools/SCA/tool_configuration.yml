@@ -1,0 +1,7 @@
+tool:
+  name: 'SCA Tool'
+  version: '1.0'
+  config:
+    dependencies:
+      - package1: '1.0.0'
+      - package2: '2.1.3'
